@@ -53,7 +53,7 @@ public class PostClaro {
 				.then()
 					.log().all()
 					.statusCode(201)
-					.body("name", is("Fernanda"))
+					.body("name", is("Fabio"))
 					
 					
 				
