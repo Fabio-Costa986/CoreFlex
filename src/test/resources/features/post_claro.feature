@@ -11,7 +11,7 @@ Feature: Title of your feature
   Scenario: Cadastro
     
     
-    Then I validate the outcomes
+    Then validar o status code.
     
 
   
